@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Profile card component](https://nft-prev1ew-card.netlify.app/)
+- Live Site URL: [Profile card component](https://prof1le-card.netlify.app/)
 
 ## Built with
 
